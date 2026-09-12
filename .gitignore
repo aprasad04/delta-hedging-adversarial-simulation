@@ -1,0 +1,26 @@
+# Python bytecode and tooling
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Generated artifacts
+plots/
